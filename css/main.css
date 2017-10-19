@@ -1,0 +1,66 @@
+.caja
+    {
+    width:1800px;
+    height:700px;
+    overflow: visible;
+    border:1px solid #000000 ;
+    }
+
+.box1 {
+   position: absolute;
+   background-color:#234F1E ;
+   width: 1000px;
+   height: 500px;
+
+}
+
+.box2 {
+   position: absolute;
+   border:4px solid white;
+   width: 960px;
+   height: 460px;
+   left: 20px;
+   top:20px;
+}
+.box3{
+   position:absolute;
+   border:4px solid white;
+   width: 180px;
+   height: 180px;
+   border-radius: 50%;
+   left: 390px;
+   top:140px;
+}
+
+.box4{
+   position:absolute;
+   border:4px solid white;
+   width: 100px;
+   height: 180px;
+   top:160px;
+   left:20px;
+}
+
+.box5{
+   position:absolute;
+   border:4px solid white;
+   width: 100px;
+   height: 180px;
+   top:150px;
+   left:880px;
+}
+.medio{
+
+  position: absolute;
+  border:3px solid white;
+  width: 0px;
+  height: 460px;
+  left: 480px;
+  top:20px;
+
+
+
+
+
+
+}
