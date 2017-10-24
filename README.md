@@ -1,2 +1,2 @@
-# chanca-de-futbol
+# cancha-de-futbol
 # cancha verde
